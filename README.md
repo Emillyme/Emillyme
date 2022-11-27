@@ -7,6 +7,7 @@
  <div>
   <a href="https://github.com/Emillyme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillyMe&layout=compact&langs_count=16&theme=rose_pine"/>
+   <br><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmillyMe&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
 
