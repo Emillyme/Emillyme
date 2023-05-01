@@ -1,6 +1,6 @@
 ### Olá, Sou a Emilly Mello! ✨
 
-- 📕 Estudando Na ETEC de Hortolandia
+- 📕 Estudante na ETEC
 - 🌱 Aprendendo/Aprofundando C# e React
 - 💻 Ferrametas: Visual Studio Code e GitHub
 ##
