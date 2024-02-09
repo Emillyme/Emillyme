@@ -1,7 +1,7 @@
 ### Olá, Sou a Emilly Mello! ✨
 
-- 📕 Estudante na ETEC
-- 🌱 Aprendendo/Aprofundando C# e React
+- 📕 Cap/ETS Digital Solutions BOSCH
+- 🌱 Aprendendo/Aprofundando sempre meus conhecimentos em programação
 - 💻 Ferrametas: Visual Studio Code e GitHub
 ##
  <div>
