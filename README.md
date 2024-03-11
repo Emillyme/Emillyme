@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cap/ETS Digital Solutions BOSCH<br>🌱 I’m currently learning Python and Java<br>⚡ Fun fact: I love to draw!
+🔭 I’m currently working on Cap/ETS Digital Solutions BOSCH<br>🌱 I’m currently learning Python and Java<br>⚡ Fact: I love to draw!
 
 
 ## 🌐 Socials:
