@@ -1,16 +1,38 @@
-# 💫 About Me:
- - I’m currently working on Cap/ETS Digital Solutions BOSCH
- - Software engineering (1/4)
- - Fact: I love to draw!
+<p align="center">
+  <a href="https://github.com/Emillyme">
+    <img src="logo_image.png" height="200" width="1000" alt="Unform" />
+  </a>
+</p>
+<div>
+  <img align="right" width="30%" src="cup.png">
+</div>
+<h2 align="center">I'm Emilly! 🌷</h2>
+
+<div style="display: flex; align-items: flex-start;">
+
+  <!-- Text Section -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h4>Aspiring Software Engineer passionate about coding, problem-solving, and creating innovative solutions. <br> Always eager to learn and grow!✨</h4>
+    <ul>
+      <li>I’m currently working at Cap/ETS Digital Solutions BOSCH</li>
+      <li>Studying System Development at SENAI</li>
+      <li>Software engineering (1/4)</li>
+      <li>Fact: I love drawing and studying space.</li>
+    </ul>
+  </div>
+
+</div>
 
 
-## 🌐 Socials:
+
+
+
+## ✨ Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/emill.ymell/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emilly-mello-a02a55248/) 
 
 # 💻 Tech Stack:
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
