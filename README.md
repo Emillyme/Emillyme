@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Emillyme">
-    <img src="logo_image.png" height="200" width="1000" alt="Unform" />
+    <img src="logo_image.png" alt="Unform" />
   </a>
 </p>
 <div>
