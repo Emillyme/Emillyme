@@ -16,7 +16,7 @@
     <ul>
       <li>I’m currently working at Cap/ETS Digital Solutions BOSCH</li>
       <li>Studying System Development at SENAI</li>
-      <li>Software engineering</li>
+      <li>Software engineering - UNINTER </li>
       <li>Fact: I love drawing and studying space.</li>
     </ul>
   </div>
