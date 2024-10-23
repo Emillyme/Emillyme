@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/Emillyme">
-    <img src="logo_image.png" alt="Unform" />
+    <img src="https://cdn.discordapp.com/attachments/755963310435991564/1298438541650694186/software_engineering.png?ex=671990a0&is=67183f20&hm=d1eb30afe865a13e5739664f0f919a980fef23a16fc7d3b0733f26f25bdd995a&" alt="Unform" />
   </a>
 </p>
 <div>
-  <img align="right" width="30%" src="cup.png">
+  <img align="right" width="30%" src="https://cdn.discordapp.com/attachments/755963310435991564/1298439297652756551/2.png?ex=67199154&is=67183fd4&hm=aa7f18b467e335e5a58f783e8fec89b0ce30d8bfa5130ecfc54b6a71013fecca&">
 </div>
-<h2 align="center">I'm Emilly! 🌷</h2>
+<h2 align="center">I'm Emilly! 🌻</h2>
 
 <div style="display: flex; align-items: flex-start;">
 
