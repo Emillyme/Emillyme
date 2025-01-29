@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/Emillyme">
-    <img src="https://cdn.discordapp.com/attachments/755963310435991564/1298438541650694186/software_engineering.png?ex=671990a0&is=67183f20&hm=d1eb30afe865a13e5739664f0f919a980fef23a16fc7d3b0733f26f25bdd995a&" alt="Unform" />
+    <img src="https://i.pinimg.com/736x/87/6a/d5/876ad5742936a67491ada3e51dd3744e.jpg" alt="Unform" />
   </a>
 </p>
 <div>
-  <img align="right" width="30%" src="https://cdn.discordapp.com/attachments/755963310435991564/1298439297652756551/2.png?ex=67199154&is=67183fd4&hm=aa7f18b467e335e5a58f783e8fec89b0ce30d8bfa5130ecfc54b6a71013fecca&">
+  <img align="right" width="17%" src="https://upload.wikimedia.org/wikipedia/pt/5/53/Snoopy_Peanuts.png">
 </div>
 <h2 align="center">I'm Emilly! 🌻</h2>
 
