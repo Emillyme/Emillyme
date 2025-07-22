@@ -3,9 +3,6 @@
     <img src="https://i.pinimg.com/736x/87/6a/d5/876ad5742936a67491ada3e51dd3744e.jpg" alt="Unform" />
   </a>
 </p>
-<div>
-  <img align="right" width="17%" src="https://upload.wikimedia.org/wikipedia/pt/5/53/Snoopy_Peanuts.png">
-</div>
 <h2 align="center">I'm Emilly! 🌻</h2>
 
 <div style="display: flex; align-items: flex-start;">
