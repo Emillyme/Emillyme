@@ -11,7 +11,7 @@
   <div style="flex: 1; margin-right: 20px;">
     <h4>Aspiring Software Engineer passionate about coding, problem-solving, and creating innovative solutions. <br> Always eager to learn and grow!✨</h4>
     <ul>
-      <li>I’m currently working at GS/OIS BOSCH</li>
+      <li>I’m currently working at GS-LA BOSCH</li>
       <li>System Development - SENAI</li>
       <li>Software engineering - UNIMETROCAMP WYDEN </li>
       <li>Fact: I love drawing and studying space.</li>
